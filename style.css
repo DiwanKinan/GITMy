@@ -1,0 +1,15 @@
+p{
+    font-family: monospace;
+    font: size 25px;;
+    background-color: lightslategrey;
+}
+ul{
+    font-family: monospace;
+    font-size: 25px;
+}
+span{
+    background-color: rgba(70, 60, 10, 51);
+}
+*{
+    background-color: silver;
+}
